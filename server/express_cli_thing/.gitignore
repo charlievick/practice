@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+yarn.lock
+
+# logs
+npm-debug.log
+
+# visual studios code profile
+.vscode
+
+# Nuxt build
+.nuxt
+build
+
+# Nuxt generate
+dist
+
+# System files
+.DS_Store
+**/.DS_Store
+
+.idea
